@@ -71,6 +71,7 @@ export const About = () => {
     </h1>
     <p className="lead text-light justify-content-center">
      Gaziantep'in en iyi fıstıklarını kullanarak yaptığımız baklavalarımızı, siz değerli müşterilerimizin memnuniyetini en üst düzeye çıkaracak şekilde imal ediyoruz.
+     Müşteri memnuniyetini temel ilke edinen işletmemiz, gıda üretiminde hijyen odaklı çalışmayı kendisine ilke edinmiştir.
     </p>
     </div>
     </div>
